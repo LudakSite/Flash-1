@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #666666;
+	margin: 0; 
+	padding: 0;
+	text-align: center; 
+	color: #000000;
+}
+.main #container { 
+	width: 90%;  
+	background: #FFFFFF;
+	margin: 0 auto; 
+	border: 1px solid #000000;
+	text-align: left; 
+} 
+.main #fejlec { 
+	background: #DDDDDD; 
+	padding: 0 10px;  
+} 
+
+.main #fejlec-kep { 
+	background: #eDDDDD; 
+	padding: 0 10px;  
+} 
+
+.main #fejlec-logo { 
+	background: #efDaaa; 
+	padding: 0 10px;  
+} 
+
+.main #menu { 
+	background: #efDffa; 
+	padding: 0 10px;  
+} 
+
+
+.main #balsav {
+	float: left; 
+	width: 22%; 
+	background: #EBEBEB; 
+	padding: 15px 10px;
+}
+
+
+
+
+.main #tartalom { 
+	padding: 0 10px;
+	margin: 0 0% 0 23.5%; 
+}
+
+.main #oldalcim { 
+background: #DDDDDD; 
+	padding: 0 10px;
+}
+
+.main #lablec { 
+	padding: 0 10px; 
+	background:#DDDDDD;
+} 
+
+
+
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
